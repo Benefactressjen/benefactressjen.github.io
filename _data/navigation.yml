@@ -3,19 +3,19 @@
 - title: 网页设计作品集
   url: /portfolio/
   excerpt: "往期作业"
-  image: web.jpg
+  image: 1.jpg
 
 - title: 信息可视化作品集
   url: /infovis/
   excerpt: "往期可视化作业"
-  image: inf.jpg
+  image: 2.jpg
 
 - title: 网页设计学习笔记
   url: /posts/rwd/
   excerpt: "记录学习过程"
-  image: web2.jpg
+  image: 3.jpg
 
 - title: 信息可视化笔记
   url: /posts/infovis/
   excerpt: "记录学习过程"
-  image: inf2.jpg
+  image: 4.jpg
