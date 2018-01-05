@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "邓一珍的大山学习历程"
+title: "邓鸭张的大山学习历程"
 description: "记录在网新学习的一点一滴"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
@@ -32,7 +32,7 @@ owner:
   google:
     ad-client:
     ad-slot:
-  bio: "邓一珍 网络与新媒体专业 中山大学南方学院 。"
+  bio: "邓一珍 网络与新媒体专业 中山大学南方学院 "
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
