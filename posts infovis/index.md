@@ -1,19 +1,19 @@
 ---
 layout: archive
-title: "信息可视化作品"
+title: "信息可视化笔记"
 date: 2017-12-30T11:40:45-04:00
 modified:
-excerpt: "各种图表"
+excerpt: "可视化"
 tags: []
 image: 
-  feature: tableau.jpg
+  feature: tableau.png
   teaser:
 ---
 
 
 
 <div class="tiles">
-{% for post in site.categories.infovis %}
+{% for post in site.categories.posts infovis %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles 把所有categories 有 infovis 的列出來-->
