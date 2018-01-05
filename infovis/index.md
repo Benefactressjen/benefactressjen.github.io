@@ -6,7 +6,7 @@ modified:
 excerpt: "可视化"
 tags: []
 image: 
-  feature: tableau.jpg
+  feature: tableau.png
   teaser:
 ---
 
