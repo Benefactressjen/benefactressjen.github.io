@@ -2,7 +2,7 @@
 layout: archive
 title: "信息可视化作品集"
 date: 2017-12-30T11:40:45-04:00
-modified:
+categories：infovis
 excerpt: "可视化图表啥的"
 tags: []
 image: 
